@@ -1,0 +1,28 @@
+{
+  "name": "tgthr-alpha",
+  "version": "0.0.1",
+  "description": "Social experiment using tokenomics.",
+  "main": "index.js",
+  "dependencies": {
+    "3box": "^1.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlanVegaDecentralize/TGTHR-3BOX.git"
+  },
+  "keywords": [
+    "3Box",
+    "web3",
+    "IPFS"
+  ],
+  "author": "Alan Vega",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlanVegaDecentralize/TGTHR-3BOX/issues"
+  },
+  "homepage": "https://github.com/AlanVegaDecentralize/TGTHR-3BOX#readme"
+}
