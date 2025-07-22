@@ -4,7 +4,7 @@
   "description": "Social experiment using tokenomics.",
   "main": "index.js",
   "dependencies": {
-    "3box": "^1.18.1"
+    "3box": "^1.22.2"
   },
   "devDependencies": {},
   "scripts": {
